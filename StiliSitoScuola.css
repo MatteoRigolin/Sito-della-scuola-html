@@ -8,6 +8,107 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+body{
+    background-color: #3175ba;
+}
+
+#TestoAllineatoColonne{
+    text-align: center;
+}
+
+#ImmagineRepubblica{
+    width: 300px; 
+    float: left;
+}
+
+#ImmagineCertiQuality{
+    width: 150px; 
+    float: right;
+}
+
+#Intestazione1{
+    font-size: 20px; 
+    letter-spacing: 2px; 
+    line-height: 20px; 
+    font-weight: 500; 
+    color: #808080; 
+}
+
+#Intestazione2{
+    font-size: 28px; 
+    letter-spacing: 1px; 
+    line-height: 28px; 
+    color: black;
+}
+
+#Intestazione3{
+    font-size: 13px; 
+    color: #808080; 
+    font: normal 12px/18px 'Lucida Grande', ' Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+}
+
+#Navbar{
+    background-color: rgb(26, 48, 148); 
+    margin: 5px; 
+    text-align: center; 
+    border-radius: 5px;
+}
+
+
+#NavbarCollapse{
+    text-align: center;
+    margin: 5px 10px;
+}
+
+#ContainerInformazioni{
+    width: auto;
+    height: auto; 
+    text-align: center; 
+    padding: 4px; 
+    background-color: white;
+}
+
+#TestoAllineatoASinistra{
+    font-size: 17px;
+    font-family: 'Rubik', sans-serif; 
+    text-align: left;
+} 
+
+#ContainerIntestazione{
+    text-align: center; 
+    padding: 4px; 
+    background-color: white;
+}
+
+#Indirizzi{
+    margin-top: 5px;
+}
+
+#TestoAllineatoAlCentro{
+    font-size: 17px; 
+    font-family: 'Rubik', sans-serif; 
+    text-align: center;
+}
+
+#ColonnaCentrale{
+    text-align: left; 
+    background-color: #ffffff; 
+    font-family:'Assistant', sans-serif; 
+    margin: 10px 10px; 
+    width: auto;
+}
+
+#RisorseDDI{
+    margin-top: 15px;
+}
+
+#RisorseUtiliDDI{
+    margin-top: 10px;
+}
+
+#TitoliNotizie{
+    color: blue;
+}
 
 #TestoNotizie {
     font-size: 17px;
@@ -32,4 +133,15 @@
 #ImmaginiColonneEsterne{
     width: 75%; 
     text-align: center;
+}
+
+.Privacy{
+    text-align: center;
+}
+
+.Piedipagina{
+    margin-top: 20px; 
+    text-align: center; 
+    font-weight: 100px; 
+    color: gray;
 }
